@@ -20,11 +20,11 @@ We welcome submissions from high school students in all areas of science, includ
 ### Mathematics
 ### Engineering
 ### How to Submit
-#### Prepare Your Manuscript: Follow our submission guidelines to format your paper correctly.
-#### Create an Account: Register on our website to submit your work.
-#### Submit Your Work: Use our online submission system to upload your manuscript and any supplementary materials.
+- Prepare Your Manuscript: Follow our submission guidelines to format your paper correctly.
+- Create an Account: Register on our website to submit your work.
+- Submit Your Work: Use our online submission system to upload your manuscript and any supplementary materials.
 ### Join Our Community
-#### Stay connected with us and other young scientists! Follow us on our social media platforms:
+Stay connected with us and other young scientists! Follow us on our social media platforms:
 
 Twitter
 Facebook
